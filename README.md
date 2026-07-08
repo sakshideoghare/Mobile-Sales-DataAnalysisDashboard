@@ -49,14 +49,19 @@ With the dashboard in place, key patterns were extracted and validated against t
 
 4.1 Year-wise Performance
 Revenue grew sharply from 2021 to 2022 (from ~₹5.88 crore to ~₹26.20 crore), before gradually tapering in 2023 (~₹25.33 crore) and 2024 (~₹19.51 crore). This suggests 2022 was a peak sales year, with a mild but consistent decline in the two years following - a signal worth investigating further (e.g. market saturation, pricing, or competition).
+
 4.2 Brand-wise Performance
 All five brands perform competitively, with no single brand dominating the market. Apple leads narrowly in both revenue (~₹16.16 crore) and units sold (3,932), closely followed by Samsung, OnePlus, Vivo, and Xiaomi - indicating a fairly balanced, competitive brand landscape rather than one driven by a single market leader.
+
 4.3 Top-Selling Models
 The iPhone SE and Vivo Y51 are the top-selling individual models by unit volume, followed closely by the OnePlus Nord, Galaxy Note 20, and Galaxy S21 - showing strong demand at both premium and mid-range price points.
+
 4.4 City-wise Performance
 Sales are heavily concentrated in metro cities: Delhi alone contributes ~₹20.39 crore in revenue - by far the largest share - followed by Mumbai (~₹12.72 crore). All other cities, including Ranchi, Chennai, and Rajkot, contribute a much smaller share individually, highlighting Delhi and Mumbai as the primary revenue-driving markets.
+
 4.5 Payment Method Preference
 Customer payment behavior is fairly evenly split across methods, with UPI marginally the most preferred (1,011 transactions), followed closely by Debit Card (948), Credit Card (947), and Cash (929) - reflecting a healthy mix of digital and cash-based payment adoption.
+
 4.6 Seasonality
 Monthly revenue remains relatively stable throughout the year (roughly ₹5.7-6.9 crore per month) without extreme seasonal spikes, though January, March, May, and July show slightly stronger performance - useful for planning inventory and promotional timing.
 
