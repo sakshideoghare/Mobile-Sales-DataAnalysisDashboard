@@ -68,11 +68,17 @@ Monthly revenue remains relatively stable throughout the year (roughly ₹5.7-6.
 ### 5. Conclusion & Recommendations
 The dashboard successfully demonstrates how transaction-level mobile sales data can be transformed into an interactive analytics tool that supports month-wise, year-wise, brand-wise, and city-wise exploration. It provides a clear, single view of business performance that would otherwise require manual analysis across a large raw dataset.
 Key Recommendations
+
 ●Investigate the revenue decline post-2022 to identify whether it stems from market saturation, pricing pressure, or competitor activity, and adjust strategy accordingly.
+
 ●Prioritize Delhi and Mumbai for high-impact marketing and inventory planning, given their disproportionate share of revenue, while identifying growth potential in mid-tier cities.
+
 ●Continue to support and promote top-performing models (iPhone SE, Vivo Y51, OnePlus Nord) while monitoring lower-performing models for potential portfolio rationalization.
+
 ●Encourage UPI adoption further through incentives, given it is already the most-used payment method, to reduce cash-handling overhead.
+
 ●Use the average customer rating (3.69/5) as a baseline to investigate post-sale satisfaction drivers and identify opportunities to improve customer experience.
+
 ●Extend the dashboard with predictive elements (e.g. sales forecasting) in future iterations to move from descriptive to predictive analytics.
 Overall, this project reflects a complete, end-to-end data analytics workflow - from raw data to a decision-ready interactive dashboard - and demonstrates the ability to extract meaningful, business-relevant insights from real-world sales data.
 
